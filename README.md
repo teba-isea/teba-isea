@@ -1,7 +1,7 @@
 - :relaxed: Hi, I’m @teba-isea
 -  :alien: Full-Stack Web Developer
 - :blue_heart: @JavaScript& @ReactJS Ecosystem Lover
-- :bulb: I'm currently very interested in the blockchain and IoT
+- :bulb: I'm currently working with web scraping and python backend
 - :suspect: Blogger, Science Lover and passionate autodidact
 - :point_right: Contact Me for [Twitter](https://twitter.com/iseaesteban) or [Linkedin](https://www.linkedin.com/in/teba-isea)
 
